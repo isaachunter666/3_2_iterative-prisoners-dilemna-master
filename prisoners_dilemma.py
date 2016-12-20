@@ -1,6 +1,7 @@
 from __future__ import print_function
-
-##### 
+######Isaac change PD
+##### Isaac change
+#####Isaac Hunter PD
 #####Rocco Zirille PD
 # Computer Science and Software Engineering
 # PLTW AP CS Principles
@@ -18,6 +19,7 @@ from __future__ import print_function
 # Each strategy is pitted against each other strategy for 100 to 200 rounds.
 # The results of all previous rounds within a 100-200 round stretch are known
 # to both players. 
+#Isaac change for the final
 # play_tournament([team0, team1, team2]) executes a tournament and writes to tournament.txt
 #Troy Rusk
 # Each team's strategy should be coded in their assigned Python file, called a module.
