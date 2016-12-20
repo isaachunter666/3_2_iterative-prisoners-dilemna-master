@@ -1,6 +1,6 @@
 from __future__ import print_function
 ######Isaac change PD
-##### 
+##### Isaac change
 #####Isaac Hunter PD
 #####Rocco Zirille PD
 # Computer Science and Software Engineering
